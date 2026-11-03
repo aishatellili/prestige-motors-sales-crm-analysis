@@ -56,6 +56,7 @@ Developed a SQL analysis script to explore sales, deal outcomes,
 inquiry-source performance and pipeline priorities.
 
 [View the SQL script](sql/prestige_motors_analysis.sql)
+[View SQL query results](screenshots/)
 
 ### HubSpot | CRM implementation and reporting
 
@@ -142,5 +143,4 @@ evidence and should not be treated as the corrected monthly results.
 - Results reflect a fixed snapshot rather than ongoing performance.
 - Stage counts show the current distribution, not historical
   movement through a sales funnel.
-- SQL execution evidence and corrected validation exports
-  are still to be added.
+- Corrected HubSpot validation exports are still to be added.
