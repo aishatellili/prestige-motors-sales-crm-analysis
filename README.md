@@ -67,6 +67,38 @@ inquiry-source performance and pipeline priorities.
   - Open Opportunities by Stage
 - Checked CRM report figures against the source analysis.
 
+## Dashboard previews
+
+### Excel management summary
+
+Sales performance, inquiry-source comparisons and loss reasons.
+
+![Excel management summary](screenshots/excel_management_summary.png)
+
+### HubSpot monthly closed-won sales
+
+Monthly sales value and won-deal counts from April to September 2026.
+
+![HubSpot monthly sales](screenshots/hubspot_monthly_closed_won_sales.png)
+
+### HubSpot deal distribution
+
+All 150 synthetic opportunities grouped by their current stage.
+
+![All deals by stage](screenshots/hubspot_all_deals_by_stage.png)
+
+### HubSpot open opportunities
+
+The 54 open opportunities grouped by stage.
+
+![Open opportunities by stage](screenshots/hubspot_open_opportunities_by_stage.png)
+
+### HubSpot CRM board
+
+A view of the imported project deals within the sales pipeline.
+
+![HubSpot deals board](screenshots/hubspot_deals_board.png)
+
 ## Proposed business actions
 
 - Prioritize review of the 13 opportunities at Offer Sent.
@@ -100,6 +132,7 @@ evidence and should not be treated as the corrected monthly results.
 | data | Source dataset and HubSpot import file |
 | docs | Synthetic-data generation notes |
 | excel | Final analysis workbook |
+| screenshots | Excel dashboard, HubSpot reports and CRM board |
 | sql | SQL analysis script |
 | validation | Supporting CRM exports |
 
