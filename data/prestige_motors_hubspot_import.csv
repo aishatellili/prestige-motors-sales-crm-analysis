@@ -1,0 +1,151 @@
+﻿Deal ID,Inquiry date,Vehicle brand,Vehicle model,Inquiry source,Deal stage,Amount USD,Expected close date,Outcome date,Loss reason,Deal name,Close date,Pipeline
+PMV2-001,2026-07-28,Lamborghini,Huracan,Referral,Closed Lost,255000,,2026-09-24,Price above budget,Prestige V2 | PMV2-001 | Lamborghini Huracan,2026-09-24,Sales Pipeline
+PMV2-002,2026-09-29,BMW,7 Series,Automotive event,Test Drive Completed,132000,2026-10-04,,,Prestige V2 | PMV2-002 | BMW 7 Series,2026-10-04,Sales Pipeline
+PMV2-003,2026-08-06,Porsche,911,Automotive event,Closed Lost,181000,,2026-08-23,Price above budget,Prestige V2 | PMV2-003 | Porsche 911,2026-08-23,Sales Pipeline
+PMV2-004,2026-09-20,Ferrari,Portofino,Walk-in,New Inquiry,249000,2026-11-01,,,Prestige V2 | PMV2-004 | Ferrari Portofino,2026-11-01,Sales Pipeline
+PMV2-005,2026-08-08,BMW,7 Series,Automotive event,Closed Won,114000,,2026-09-19,,Prestige V2 | PMV2-005 | BMW 7 Series,2026-09-19,Sales Pipeline
+PMV2-006,2026-09-06,Porsche,911,Referral,Test Drive Scheduled,161000,2026-12-11,,,Prestige V2 | PMV2-006 | Porsche 911,2026-12-11,Sales Pipeline
+PMV2-007,2026-06-10,Porsche,911,Website,Closed Lost,164000,,2026-07-05,Price above budget,Prestige V2 | PMV2-007 | Porsche 911,2026-07-05,Sales Pipeline
+PMV2-008,2026-09-13,Audi,A8,Referral,Test Drive Scheduled,99000,2026-12-29,,,Prestige V2 | PMV2-008 | Audi A8,2026-12-29,Sales Pipeline
+PMV2-009,2026-06-23,Rolls-Royce,Ghost,Referral,Closed Lost,321000,,2026-07-24,Financing declined,Prestige V2 | PMV2-009 | Rolls-Royce Ghost,2026-07-24,Sales Pipeline
+PMV2-010,2026-07-02,Bentley,Continental GT,Walk-in,Closed Lost,225000,,2026-09-26,Bought elsewhere,Prestige V2 | PMV2-010 | Bentley Continental GT,2026-09-26,Sales Pipeline
+PMV2-011,2026-09-10,Audi,A8,Referral,Closed Lost,126000,,2026-09-22,Price above budget,Prestige V2 | PMV2-011 | Audi A8,2026-09-22,Sales Pipeline
+PMV2-012,2026-06-13,Bentley,Continental GT,Walk-in,Closed Lost,210000,,2026-07-11,Price above budget,Prestige V2 | PMV2-012 | Bentley Continental GT,2026-07-11,Sales Pipeline
+PMV2-013,2026-06-10,Lexus,LS,Referral,Closed Lost,114000,,2026-06-26,Price above budget,Prestige V2 | PMV2-013 | Lexus LS,2026-06-26,Sales Pipeline
+PMV2-014,2026-05-26,Ferrari,Roma,Website,Closed Lost,249000,,2026-08-06,Purchase postponed,Prestige V2 | PMV2-014 | Ferrari Roma,2026-08-06,Sales Pipeline
+PMV2-015,2026-07-15,Bentley,Continental GT,Referral,Closed Won,253000,,2026-08-08,,Prestige V2 | PMV2-015 | Bentley Continental GT,2026-08-08,Sales Pipeline
+PMV2-016,2026-09-08,Rolls-Royce,Ghost,Referral,New Inquiry,325000,2026-12-23,,,Prestige V2 | PMV2-016 | Rolls-Royce Ghost,2026-12-23,Sales Pipeline
+PMV2-017,2026-04-17,Lexus,LS,Automotive event,Closed Won,99000,,2026-06-23,,Prestige V2 | PMV2-017 | Lexus LS,2026-06-23,Sales Pipeline
+PMV2-018,2026-09-06,Lamborghini,Huracan,Walk-in,New Inquiry,312000,2026-10-10,,,Prestige V2 | PMV2-018 | Lamborghini Huracan,2026-10-10,Sales Pipeline
+PMV2-019,2026-06-07,Lexus,LS,Website,Closed Lost,106000,,2026-08-19,Purchase postponed,Prestige V2 | PMV2-019 | Lexus LS,2026-08-19,Sales Pipeline
+PMV2-020,2026-05-15,Lexus,LS,Website,Closed Lost,102000,,2026-07-07,Price above budget,Prestige V2 | PMV2-020 | Lexus LS,2026-07-07,Sales Pipeline
+PMV2-021,2026-04-09,Rolls-Royce,Ghost,Website,Closed Won,346000,,2026-05-06,,Prestige V2 | PMV2-021 | Rolls-Royce Ghost,2026-05-06,Sales Pipeline
+PMV2-022,2026-08-24,Audi,A8,Instagram,Closed Won,121000,,2026-09-08,,Prestige V2 | PMV2-022 | Audi A8,2026-09-08,Sales Pipeline
+PMV2-023,2026-08-22,Audi,A8,Referral,Closed Won,111000,,2026-09-02,,Prestige V2 | PMV2-023 | Audi A8,2026-09-02,Sales Pipeline
+PMV2-024,2026-07-16,Rolls-Royce,Ghost,Instagram,Test Drive Completed,369000,2026-11-25,,,Prestige V2 | PMV2-024 | Rolls-Royce Ghost,2026-11-25,Sales Pipeline
+PMV2-025,2026-08-27,Lexus,LS,Automotive event,Qualified Buyer,93000,2026-10-24,,,Prestige V2 | PMV2-025 | Lexus LS,2026-10-24,Sales Pipeline
+PMV2-026,2026-08-28,Lexus,LS,Automotive event,Offer Sent,101000,2026-10-04,,,Prestige V2 | PMV2-026 | Lexus LS,2026-10-04,Sales Pipeline
+PMV2-027,2026-08-15,Lexus,LS,Instagram,Closed Won,106000,,2026-09-13,,Prestige V2 | PMV2-027 | Lexus LS,2026-09-13,Sales Pipeline
+PMV2-028,2026-04-18,Ferrari,Roma,Walk-in,Closed Lost,235000,,2026-06-25,Bought elsewhere,Prestige V2 | PMV2-028 | Ferrari Roma,2026-06-25,Sales Pipeline
+PMV2-029,2026-08-14,Lamborghini,Huracan,Automotive event,New Inquiry,318000,2026-12-14,,,Prestige V2 | PMV2-029 | Lamborghini Huracan,2026-12-14,Sales Pipeline
+PMV2-030,2026-07-16,Mercedes-Benz,S-Class,Website,Closed Lost,122000,,2026-09-25,Purchase postponed,Prestige V2 | PMV2-030 | Mercedes-Benz S-Class,2026-09-25,Sales Pipeline
+PMV2-031,2026-08-27,Ferrari,Roma,Walk-in,Closed Won,263000,,2026-09-22,,Prestige V2 | PMV2-031 | Ferrari Roma,2026-09-22,Sales Pipeline
+PMV2-032,2026-07-29,Audi,A8,Instagram,Test Drive Scheduled,119000,2026-12-19,,,Prestige V2 | PMV2-032 | Audi A8,2026-12-19,Sales Pipeline
+PMV2-033,2026-05-05,Porsche,911,Automotive event,Closed Lost,160000,,2026-07-23,Vehicle unavailable,Prestige V2 | PMV2-033 | Porsche 911,2026-07-23,Sales Pipeline
+PMV2-034,2026-09-08,Bentley,Continental GT,Instagram,Qualified Buyer,244000,2026-10-15,,,Prestige V2 | PMV2-034 | Bentley Continental GT,2026-10-15,Sales Pipeline
+PMV2-035,2026-08-07,Rolls-Royce,Ghost,Walk-in,Closed Lost,345000,,2026-09-11,Financing declined,Prestige V2 | PMV2-035 | Rolls-Royce Ghost,2026-09-11,Sales Pipeline
+PMV2-036,2026-07-06,Ferrari,Portofino,Referral,Closed Won,239000,,2026-09-05,,Prestige V2 | PMV2-036 | Ferrari Portofino,2026-09-05,Sales Pipeline
+PMV2-037,2026-07-14,Bentley,Continental GT,Instagram,Closed Lost,234000,,2026-08-15,Vehicle unavailable,Prestige V2 | PMV2-037 | Bentley Continental GT,2026-08-15,Sales Pipeline
+PMV2-038,2026-09-30,Audi,A8,Automotive event,New Inquiry,121000,2026-11-10,,,Prestige V2 | PMV2-038 | Audi A8,2026-11-10,Sales Pipeline
+PMV2-039,2026-04-30,Lexus,LS,Walk-in,Closed Lost,109000,,2026-05-20,Price above budget,Prestige V2 | PMV2-039 | Lexus LS,2026-05-20,Sales Pipeline
+PMV2-040,2026-06-21,Audi,A8,Automotive event,Closed Lost,122000,,2026-09-17,Vehicle unavailable,Prestige V2 | PMV2-040 | Audi A8,2026-09-17,Sales Pipeline
+PMV2-041,2026-08-13,Lexus,LS,Automotive event,Closed Won,104000,,2026-09-03,,Prestige V2 | PMV2-041 | Lexus LS,2026-09-03,Sales Pipeline
+PMV2-042,2026-09-13,Porsche,911,Website,New Inquiry,182000,2026-11-22,,,Prestige V2 | PMV2-042 | Porsche 911,2026-11-22,Sales Pipeline
+PMV2-043,2026-08-21,Mercedes-Benz,S-Class,Walk-in,Closed Won,137000,,2026-09-26,,Prestige V2 | PMV2-043 | Mercedes-Benz S-Class,2026-09-26,Sales Pipeline
+PMV2-044,2026-04-15,Ferrari,Portofino,Website,Closed Lost,220000,,2026-05-14,Bought elsewhere,Prestige V2 | PMV2-044 | Ferrari Portofino,2026-05-14,Sales Pipeline
+PMV2-045,2026-08-30,Lamborghini,Huracan,Referral,Test Drive Completed,321000,2026-12-05,,,Prestige V2 | PMV2-045 | Lamborghini Huracan,2026-12-05,Sales Pipeline
+PMV2-046,2026-05-23,Lexus,LS,Website,Closed Lost,100000,,2026-08-07,Financing declined,Prestige V2 | PMV2-046 | Lexus LS,2026-08-07,Sales Pipeline
+PMV2-047,2026-05-30,Lamborghini,Huracan,Walk-in,Closed Lost,277000,,2026-07-06,Purchase postponed,Prestige V2 | PMV2-047 | Lamborghini Huracan,2026-07-06,Sales Pipeline
+PMV2-048,2026-09-07,BMW,7 Series,Instagram,New Inquiry,130000,2026-12-17,,,Prestige V2 | PMV2-048 | BMW 7 Series,2026-12-17,Sales Pipeline
+PMV2-049,2026-09-01,Porsche,911,Automotive event,Closed Won,155000,,2026-09-15,,Prestige V2 | PMV2-049 | Porsche 911,2026-09-15,Sales Pipeline
+PMV2-050,2026-05-15,Ferrari,Portofino,Automotive event,Closed Lost,244000,,2026-08-04,Vehicle unavailable,Prestige V2 | PMV2-050 | Ferrari Portofino,2026-08-04,Sales Pipeline
+PMV2-051,2026-08-10,Lamborghini,Huracan,Referral,Closed Lost,273000,,2026-08-28,Financing declined,Prestige V2 | PMV2-051 | Lamborghini Huracan,2026-08-28,Sales Pipeline
+PMV2-052,2026-04-02,Lexus,LS,Walk-in,Closed Lost,104000,,2026-04-30,Bought elsewhere,Prestige V2 | PMV2-052 | Lexus LS,2026-04-30,Sales Pipeline
+PMV2-053,2026-08-17,BMW,7 Series,Website,Closed Won,125000,,2026-09-01,,Prestige V2 | PMV2-053 | BMW 7 Series,2026-09-01,Sales Pipeline
+PMV2-054,2026-05-21,Lexus,LS,Automotive event,Closed Won,112000,,2026-06-11,,Prestige V2 | PMV2-054 | Lexus LS,2026-06-11,Sales Pipeline
+PMV2-055,2026-06-05,Ferrari,Portofino,Referral,Closed Lost,236000,,2026-06-20,Purchase postponed,Prestige V2 | PMV2-055 | Ferrari Portofino,2026-06-20,Sales Pipeline
+PMV2-056,2026-04-19,Lexus,LS,Instagram,Closed Won,105000,,2026-05-06,,Prestige V2 | PMV2-056 | Lexus LS,2026-05-06,Sales Pipeline
+PMV2-057,2026-08-18,Ferrari,Roma,Instagram,Offer Sent,264000,2026-12-14,,,Prestige V2 | PMV2-057 | Ferrari Roma,2026-12-14,Sales Pipeline
+PMV2-058,2026-07-30,Lexus,LS,Website,Closed Won,96000,,2026-08-07,,Prestige V2 | PMV2-058 | Lexus LS,2026-08-07,Sales Pipeline
+PMV2-059,2026-09-04,Audi,A8,Referral,Offer Sent,100000,2026-10-10,,,Prestige V2 | PMV2-059 | Audi A8,2026-10-10,Sales Pipeline
+PMV2-060,2026-04-13,BMW,7 Series,Automotive event,Closed Won,123000,,2026-04-23,,Prestige V2 | PMV2-060 | BMW 7 Series,2026-04-23,Sales Pipeline
+PMV2-061,2026-06-04,Lamborghini,Huracan,Website,Closed Won,260000,,2026-08-15,,Prestige V2 | PMV2-061 | Lamborghini Huracan,2026-08-15,Sales Pipeline
+PMV2-062,2026-06-21,Mercedes-Benz,S-Class,Referral,Closed Lost,143000,,2026-08-08,Bought elsewhere,Prestige V2 | PMV2-062 | Mercedes-Benz S-Class,2026-08-08,Sales Pipeline
+PMV2-063,2026-09-16,Ferrari,Portofino,Website,Test Drive Completed,207000,2026-10-04,,,Prestige V2 | PMV2-063 | Ferrari Portofino,2026-10-04,Sales Pipeline
+PMV2-064,2026-04-26,Lexus,LS,Instagram,Closed Won,106000,,2026-07-22,,Prestige V2 | PMV2-064 | Lexus LS,2026-07-22,Sales Pipeline
+PMV2-065,2026-09-06,Mercedes-Benz,S-Class,Walk-in,Closed Lost,124000,,2026-09-24,Vehicle unavailable,Prestige V2 | PMV2-065 | Mercedes-Benz S-Class,2026-09-24,Sales Pipeline
+PMV2-066,2026-06-04,Lexus,LS,Instagram,Closed Lost,104000,,2026-06-28,Price above budget,Prestige V2 | PMV2-066 | Lexus LS,2026-06-28,Sales Pipeline
+PMV2-067,2026-09-30,BMW,7 Series,Website,Qualified Buyer,124000,2026-12-12,,,Prestige V2 | PMV2-067 | BMW 7 Series,2026-12-12,Sales Pipeline
+PMV2-068,2026-04-18,Ferrari,Portofino,Website,Closed Lost,214000,,2026-06-17,Bought elsewhere,Prestige V2 | PMV2-068 | Ferrari Portofino,2026-06-17,Sales Pipeline
+PMV2-069,2026-09-26,Ferrari,Roma,Referral,Test Drive Scheduled,287000,2026-12-13,,,Prestige V2 | PMV2-069 | Ferrari Roma,2026-12-13,Sales Pipeline
+PMV2-070,2026-08-23,Lexus,LS,Automotive event,Test Drive Completed,95000,2026-10-25,,,Prestige V2 | PMV2-070 | Lexus LS,2026-10-25,Sales Pipeline
+PMV2-071,2026-05-07,Lexus,LS,Walk-in,Closed Won,106000,,2026-06-04,,Prestige V2 | PMV2-071 | Lexus LS,2026-06-04,Sales Pipeline
+PMV2-072,2026-06-13,Ferrari,Portofino,Referral,Closed Lost,226000,,2026-08-27,Purchase postponed,Prestige V2 | PMV2-072 | Ferrari Portofino,2026-08-27,Sales Pipeline
+PMV2-073,2026-08-20,Bentley,Continental GT,Walk-in,Test Drive Completed,232000,2026-12-05,,,Prestige V2 | PMV2-073 | Bentley Continental GT,2026-12-05,Sales Pipeline
+PMV2-074,2026-05-28,Lexus,LS,Walk-in,Closed Won,96000,,2026-07-26,,Prestige V2 | PMV2-074 | Lexus LS,2026-07-26,Sales Pipeline
+PMV2-075,2026-09-05,Bentley,Continental GT,Instagram,Closed Won,217000,,2026-09-24,,Prestige V2 | PMV2-075 | Bentley Continental GT,2026-09-24,Sales Pipeline
+PMV2-076,2026-09-22,Lexus,LS,Instagram,Offer Sent,97000,2026-10-21,,,Prestige V2 | PMV2-076 | Lexus LS,2026-10-21,Sales Pipeline
+PMV2-077,2026-09-16,Rolls-Royce,Ghost,Instagram,Test Drive Completed,400000,2026-12-20,,,Prestige V2 | PMV2-077 | Rolls-Royce Ghost,2026-12-20,Sales Pipeline
+PMV2-078,2026-08-28,Mercedes-Benz,S-Class,Referral,Offer Sent,121000,2026-12-19,,,Prestige V2 | PMV2-078 | Mercedes-Benz S-Class,2026-12-19,Sales Pipeline
+PMV2-079,2026-07-07,Lamborghini,Huracan,Walk-in,Closed Won,313000,,2026-08-16,,Prestige V2 | PMV2-079 | Lamborghini Huracan,2026-08-16,Sales Pipeline
+PMV2-080,2026-04-16,Lamborghini,Huracan,Website,Closed Won,277000,,2026-05-10,,Prestige V2 | PMV2-080 | Lamborghini Huracan,2026-05-10,Sales Pipeline
+PMV2-081,2026-09-02,Lexus,LS,Referral,Offer Sent,113000,2026-10-20,,,Prestige V2 | PMV2-081 | Lexus LS,2026-10-20,Sales Pipeline
+PMV2-082,2026-07-25,Bentley,Continental GT,Website,Closed Lost,223000,,2026-09-29,Financing declined,Prestige V2 | PMV2-082 | Bentley Continental GT,2026-09-29,Sales Pipeline
+PMV2-083,2026-06-22,Ferrari,Portofino,Instagram,Closed Lost,250000,,2026-07-23,Purchase postponed,Prestige V2 | PMV2-083 | Ferrari Portofino,2026-07-23,Sales Pipeline
+PMV2-084,2026-07-02,Lexus,LS,Walk-in,Closed Won,103000,,2026-07-10,,Prestige V2 | PMV2-084 | Lexus LS,2026-07-10,Sales Pipeline
+PMV2-085,2026-04-14,Lamborghini,Huracan,Instagram,Closed Lost,271000,,2026-05-03,Bought elsewhere,Prestige V2 | PMV2-085 | Lamborghini Huracan,2026-05-03,Sales Pipeline
+PMV2-086,2026-06-01,Porsche,911,Walk-in,Closed Won,182000,,2026-08-11,,Prestige V2 | PMV2-086 | Porsche 911,2026-08-11,Sales Pipeline
+PMV2-087,2026-07-08,Lexus,LS,Website,Closed Won,111000,,2026-08-20,,Prestige V2 | PMV2-087 | Lexus LS,2026-08-20,Sales Pipeline
+PMV2-088,2026-08-17,Lamborghini,Huracan,Referral,Test Drive Completed,263000,2026-10-15,,,Prestige V2 | PMV2-088 | Lamborghini Huracan,2026-10-15,Sales Pipeline
+PMV2-089,2026-09-15,Bentley,Continental GT,Walk-in,Offer Sent,219000,2026-11-06,,,Prestige V2 | PMV2-089 | Bentley Continental GT,2026-11-06,Sales Pipeline
+PMV2-090,2026-08-02,Mercedes-Benz,S-Class,Instagram,Closed Won,130000,,2026-09-16,,Prestige V2 | PMV2-090 | Mercedes-Benz S-Class,2026-09-16,Sales Pipeline
+PMV2-091,2026-08-07,Ferrari,Roma,Referral,Closed Won,232000,,2026-08-18,,Prestige V2 | PMV2-091 | Ferrari Roma,2026-08-18,Sales Pipeline
+PMV2-092,2026-08-09,Lamborghini,Huracan,Walk-in,Test Drive Scheduled,268000,2026-10-31,,,Prestige V2 | PMV2-092 | Lamborghini Huracan,2026-10-31,Sales Pipeline
+PMV2-093,2026-08-21,BMW,7 Series,Instagram,New Inquiry,135000,2026-10-28,,,Prestige V2 | PMV2-093 | BMW 7 Series,2026-10-28,Sales Pipeline
+PMV2-094,2026-07-24,Mercedes-Benz,S-Class,Referral,Closed Lost,119000,,2026-08-29,Purchase postponed,Prestige V2 | PMV2-094 | Mercedes-Benz S-Class,2026-08-29,Sales Pipeline
+PMV2-095,2026-06-01,Ferrari,Portofino,Automotive event,Closed Won,229000,,2026-08-25,,Prestige V2 | PMV2-095 | Ferrari Portofino,2026-08-25,Sales Pipeline
+PMV2-096,2026-08-27,Mercedes-Benz,S-Class,Automotive event,Closed Won,140000,,2026-09-11,,Prestige V2 | PMV2-096 | Mercedes-Benz S-Class,2026-09-11,Sales Pipeline
+PMV2-097,2026-08-28,Lexus,LS,Automotive event,Test Drive Scheduled,110000,2026-11-18,,,Prestige V2 | PMV2-097 | Lexus LS,2026-11-18,Sales Pipeline
+PMV2-098,2026-09-25,Bentley,Continental GT,Website,New Inquiry,221000,2026-10-21,,,Prestige V2 | PMV2-098 | Bentley Continental GT,2026-10-21,Sales Pipeline
+PMV2-099,2026-06-23,Ferrari,Portofino,Referral,Closed Won,238000,,2026-08-04,,Prestige V2 | PMV2-099 | Ferrari Portofino,2026-08-04,Sales Pipeline
+PMV2-100,2026-07-06,Mercedes-Benz,S-Class,Instagram,Closed Won,138000,,2026-09-14,,Prestige V2 | PMV2-100 | Mercedes-Benz S-Class,2026-09-14,Sales Pipeline
+PMV2-101,2026-06-19,BMW,7 Series,Walk-in,Closed Lost,120000,,2026-08-07,Price above budget,Prestige V2 | PMV2-101 | BMW 7 Series,2026-08-07,Sales Pipeline
+PMV2-102,2026-04-25,Lexus,LS,Referral,Closed Won,110000,,2026-05-07,,Prestige V2 | PMV2-102 | Lexus LS,2026-05-07,Sales Pipeline
+PMV2-103,2026-07-26,BMW,7 Series,Instagram,Test Drive Scheduled,123000,2026-12-01,,,Prestige V2 | PMV2-103 | BMW 7 Series,2026-12-01,Sales Pipeline
+PMV2-104,2026-04-05,Mercedes-Benz,S-Class,Instagram,Closed Lost,146000,,2026-06-20,Bought elsewhere,Prestige V2 | PMV2-104 | Mercedes-Benz S-Class,2026-06-20,Sales Pipeline
+PMV2-105,2026-04-25,Rolls-Royce,Ghost,Referral,Closed Lost,383000,,2026-05-06,Financing declined,Prestige V2 | PMV2-105 | Rolls-Royce Ghost,2026-05-06,Sales Pipeline
+PMV2-106,2026-06-08,BMW,7 Series,Website,Closed Lost,129000,,2026-06-28,Price above budget,Prestige V2 | PMV2-106 | BMW 7 Series,2026-06-28,Sales Pipeline
+PMV2-107,2026-09-06,Rolls-Royce,Ghost,Website,Offer Sent,334000,2026-11-11,,,Prestige V2 | PMV2-107 | Rolls-Royce Ghost,2026-11-11,Sales Pipeline
+PMV2-108,2026-09-24,Porsche,911,Website,New Inquiry,155000,2026-10-01,,,Prestige V2 | PMV2-108 | Porsche 911,2026-10-01,Sales Pipeline
+PMV2-109,2026-04-13,Mercedes-Benz,S-Class,Walk-in,Closed Won,122000,,2026-05-02,,Prestige V2 | PMV2-109 | Mercedes-Benz S-Class,2026-05-02,Sales Pipeline
+PMV2-110,2026-05-15,BMW,7 Series,Instagram,Closed Lost,116000,,2026-06-09,Vehicle unavailable,Prestige V2 | PMV2-110 | BMW 7 Series,2026-06-09,Sales Pipeline
+PMV2-111,2026-09-18,Audi,A8,Referral,Test Drive Scheduled,115000,2026-12-25,,,Prestige V2 | PMV2-111 | Audi A8,2026-12-25,Sales Pipeline
+PMV2-112,2026-09-16,Audi,A8,Referral,Test Drive Scheduled,119000,2026-10-21,,,Prestige V2 | PMV2-112 | Audi A8,2026-10-21,Sales Pipeline
+PMV2-113,2026-06-28,Audi,A8,Referral,Closed Won,126000,,2026-07-17,,Prestige V2 | PMV2-113 | Audi A8,2026-07-17,Sales Pipeline
+PMV2-114,2026-08-01,Ferrari,Portofino,Referral,Closed Lost,206000,,2026-08-21,Vehicle unavailable,Prestige V2 | PMV2-114 | Ferrari Portofino,2026-08-21,Sales Pipeline
+PMV2-115,2026-06-13,Ferrari,Roma,Walk-in,Closed Lost,226000,,2026-09-06,Price above budget,Prestige V2 | PMV2-115 | Ferrari Roma,2026-09-06,Sales Pipeline
+PMV2-116,2026-05-03,Audi,A8,Automotive event,Closed Lost,123000,,2026-07-13,Vehicle unavailable,Prestige V2 | PMV2-116 | Audi A8,2026-07-13,Sales Pipeline
+PMV2-117,2026-05-17,Rolls-Royce,Ghost,Instagram,Closed Lost,354000,,2026-07-29,Vehicle unavailable,Prestige V2 | PMV2-117 | Rolls-Royce Ghost,2026-07-29,Sales Pipeline
+PMV2-118,2026-07-07,Ferrari,Portofino,Website,New Inquiry,245000,2026-11-23,,,Prestige V2 | PMV2-118 | Ferrari Portofino,2026-11-23,Sales Pipeline
+PMV2-119,2026-09-11,Lexus,LS,Automotive event,Offer Sent,95000,2026-10-01,,,Prestige V2 | PMV2-119 | Lexus LS,2026-10-01,Sales Pipeline
+PMV2-120,2026-06-09,Bentley,Continental GT,Website,Closed Lost,251000,,2026-07-03,Purchase postponed,Prestige V2 | PMV2-120 | Bentley Continental GT,2026-07-03,Sales Pipeline
+PMV2-121,2026-06-05,Ferrari,Portofino,Website,Closed Won,203000,,2026-08-11,,Prestige V2 | PMV2-121 | Ferrari Portofino,2026-08-11,Sales Pipeline
+PMV2-122,2026-07-09,Ferrari,Portofino,Instagram,Closed Won,225000,,2026-09-14,,Prestige V2 | PMV2-122 | Ferrari Portofino,2026-09-14,Sales Pipeline
+PMV2-123,2026-09-17,Ferrari,Portofino,Instagram,Test Drive Scheduled,216000,2026-11-20,,,Prestige V2 | PMV2-123 | Ferrari Portofino,2026-11-20,Sales Pipeline
+PMV2-124,2026-08-28,Audi,A8,Referral,New Inquiry,125000,2026-12-07,,,Prestige V2 | PMV2-124 | Audi A8,2026-12-07,Sales Pipeline
+PMV2-125,2026-09-18,Porsche,911,Walk-in,Test Drive Completed,144000,2026-10-03,,,Prestige V2 | PMV2-125 | Porsche 911,2026-10-03,Sales Pipeline
+PMV2-126,2026-04-09,Lexus,LS,Website,Closed Lost,107000,,2026-06-08,Purchase postponed,Prestige V2 | PMV2-126 | Lexus LS,2026-06-08,Sales Pipeline
+PMV2-127,2026-06-07,Lamborghini,Huracan,Automotive event,Closed Won,291000,,2026-07-03,,Prestige V2 | PMV2-127 | Lamborghini Huracan,2026-07-03,Sales Pipeline
+PMV2-128,2026-08-12,Bentley,Continental GT,Walk-in,Offer Sent,226000,2026-11-19,,,Prestige V2 | PMV2-128 | Bentley Continental GT,2026-11-19,Sales Pipeline
+PMV2-129,2026-05-11,Ferrari,Roma,Instagram,Closed Lost,243000,,2026-06-11,Bought elsewhere,Prestige V2 | PMV2-129 | Ferrari Roma,2026-06-11,Sales Pipeline
+PMV2-130,2026-09-08,Bentley,Continental GT,Walk-in,Test Drive Scheduled,257000,2026-11-17,,,Prestige V2 | PMV2-130 | Bentley Continental GT,2026-11-17,Sales Pipeline
+PMV2-131,2026-06-28,Rolls-Royce,Ghost,Automotive event,Closed Lost,319000,,2026-09-25,Financing declined,Prestige V2 | PMV2-131 | Rolls-Royce Ghost,2026-09-25,Sales Pipeline
+PMV2-132,2026-09-06,BMW,7 Series,Instagram,New Inquiry,134000,2026-10-11,,,Prestige V2 | PMV2-132 | BMW 7 Series,2026-10-11,Sales Pipeline
+PMV2-133,2026-08-28,Audi,A8,Walk-in,Offer Sent,114000,2026-12-21,,,Prestige V2 | PMV2-133 | Audi A8,2026-12-21,Sales Pipeline
+PMV2-134,2026-09-20,Rolls-Royce,Ghost,Website,Test Drive Completed,328000,2026-12-17,,,Prestige V2 | PMV2-134 | Rolls-Royce Ghost,2026-12-17,Sales Pipeline
+PMV2-135,2026-08-31,Lexus,LS,Referral,New Inquiry,105000,2026-11-03,,,Prestige V2 | PMV2-135 | Lexus LS,2026-11-03,Sales Pipeline
+PMV2-136,2026-06-11,Mercedes-Benz,S-Class,Walk-in,Closed Lost,148000,,2026-07-28,Vehicle unavailable,Prestige V2 | PMV2-136 | Mercedes-Benz S-Class,2026-07-28,Sales Pipeline
+PMV2-137,2026-05-26,Bentley,Continental GT,Automotive event,Closed Lost,250000,,2026-07-25,Financing declined,Prestige V2 | PMV2-137 | Bentley Continental GT,2026-07-25,Sales Pipeline
+PMV2-138,2026-07-01,Ferrari,Roma,Automotive event,Closed Lost,244000,,2026-09-13,Price above budget,Prestige V2 | PMV2-138 | Ferrari Roma,2026-09-13,Sales Pipeline
+PMV2-139,2026-08-07,Lexus,LS,Walk-in,Qualified Buyer,111000,2026-10-11,,,Prestige V2 | PMV2-139 | Lexus LS,2026-10-11,Sales Pipeline
+PMV2-140,2026-06-16,Bentley,Continental GT,Instagram,Closed Lost,214000,,2026-08-16,Price above budget,Prestige V2 | PMV2-140 | Bentley Continental GT,2026-08-16,Sales Pipeline
+PMV2-141,2026-08-12,Rolls-Royce,Ghost,Automotive event,Offer Sent,395000,2026-12-10,,,Prestige V2 | PMV2-141 | Rolls-Royce Ghost,2026-12-10,Sales Pipeline
+PMV2-142,2026-09-18,Lamborghini,Huracan,Automotive event,Offer Sent,311000,2026-12-12,,,Prestige V2 | PMV2-142 | Lamborghini Huracan,2026-12-12,Sales Pipeline
+PMV2-143,2026-04-15,Bentley,Continental GT,Automotive event,Closed Won,241000,,2026-05-20,,Prestige V2 | PMV2-143 | Bentley Continental GT,2026-05-20,Sales Pipeline
+PMV2-144,2026-07-11,Mercedes-Benz,S-Class,Website,Closed Won,143000,,2026-08-12,,Prestige V2 | PMV2-144 | Mercedes-Benz S-Class,2026-08-12,Sales Pipeline
+PMV2-145,2026-07-05,Ferrari,Roma,Walk-in,Closed Won,266000,,2026-07-18,,Prestige V2 | PMV2-145 | Ferrari Roma,2026-07-18,Sales Pipeline
+PMV2-146,2026-09-17,Ferrari,Roma,Automotive event,Test Drive Completed,244000,2026-12-15,,,Prestige V2 | PMV2-146 | Ferrari Roma,2026-12-15,Sales Pipeline
+PMV2-147,2026-05-26,Porsche,911,Automotive event,Closed Won,146000,,2026-08-12,,Prestige V2 | PMV2-147 | Porsche 911,2026-08-12,Sales Pipeline
+PMV2-148,2026-07-05,BMW,7 Series,Referral,Closed Won,132000,,2026-07-14,,Prestige V2 | PMV2-148 | BMW 7 Series,2026-07-14,Sales Pipeline
+PMV2-149,2026-09-16,BMW,7 Series,Walk-in,New Inquiry,135000,2026-12-12,,,Prestige V2 | PMV2-149 | BMW 7 Series,2026-12-12,Sales Pipeline
+PMV2-150,2026-06-06,Bentley,Continental GT,Walk-in,Closed Won,209000,,2026-08-13,,Prestige V2 | PMV2-150 | Bentley Continental GT,2026-08-13,Sales Pipeline

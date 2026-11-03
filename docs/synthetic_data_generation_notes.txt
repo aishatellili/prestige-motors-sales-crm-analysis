@@ -1,0 +1,9 @@
+Prestige Motors v2 — synthetic learning dataset
+Reporting date: 2026-09-30. 150 opportunities, inquiries April–September 2026.
+Generated with Python random.Random seed 20260930. No real customers, affiliation, or market price claims.
+For each record: inquiry date sampled uniformly across 183 days; hypothetical decision duration uniformly 7–90 days. If the decision date is after the reporting date, the deal remains open. Otherwise won/lost is sampled equally.
+Sources and brand/model pairs are sampled uniformly and independently; no channel is deliberately assigned superior performance. Open stage is sampled uniformly, not inferred from elapsed time. Expected closing dates are sampled 1–90 days after reporting date. Prices are fictional model baselines multiplied by a uniform 0.90–1.15 factor and rounded to the nearest 1000 USD. Loss reasons are sampled uniformly.
+Open deals have blank outcome dates; closed deals have blank expected dates. No missing required values or deliberate duplicates are included. Cleaning exercises should use a separate copy.
+This is an inquiry cohort as of a fixed date; recent inquiries have had less time to close. Closed-only win rates exclude open deals and must be shown with outcome counts.
+Current stages are snapshots, not historical funnel events. Stage conversion and marketing ROI cannot be calculated from these columns.
+Checks passed: 150 unique IDs, positive amounts, inquiry period bounds, consistent outcome/expected dates, loss reasons only for losses.

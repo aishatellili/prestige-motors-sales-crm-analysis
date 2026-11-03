@@ -1,0 +1,151 @@
+﻿Deal ID,Inquiry date,Vehicle brand,Vehicle model,Inquiry source,Deal stage,Amount USD,Expected close date,Outcome date,Loss reason
+PMV2-001,28-07-26,Lamborghini,Huracan,Referral,Closed Lost,255000,,24-09-26,Price above budget
+PMV2-002,29-09-26,BMW,7 Series,Automotive event,Test Drive Completed,132000,04-10-26,,
+PMV2-003,06-08-26,Porsche,911,Automotive event,Closed Lost,181000,,23-08-26,Price above budget
+PMV2-004,20-09-26,Ferrari,Portofino,Walk-in,New Inquiry,249000,01-11-26,,
+PMV2-005,08-08-26,BMW,7 Series,Automotive event,Closed Won,114000,,19-09-26,
+PMV2-006,06-09-26,Porsche,911,Referral,Test Drive Scheduled,161000,11-12-26,,
+PMV2-007,10-06-26,Porsche,911,Website,Closed Lost,164000,,05-07-26,Price above budget
+PMV2-008,13-09-26,Audi,A8,Referral,Test Drive Scheduled,99000,29-12-26,,
+PMV2-009,23-06-26,Rolls-Royce,Ghost,Referral,Closed Lost,321000,,24-07-26,Financing declined
+PMV2-010,02-07-26,Bentley,Continental GT,Walk-in,Closed Lost,225000,,26-09-26,Bought elsewhere
+PMV2-011,10-09-26,Audi,A8,Referral,Closed Lost,126000,,22-09-26,Price above budget
+PMV2-012,13-06-26,Bentley,Continental GT,Walk-in,Closed Lost,210000,,11-07-26,Price above budget
+PMV2-013,10-06-26,Lexus,LS,Referral,Closed Lost,114000,,26-06-26,Price above budget
+PMV2-014,26-05-26,Ferrari,Roma,Website,Closed Lost,249000,,06-08-26,Purchase postponed
+PMV2-015,15-07-26,Bentley,Continental GT,Referral,Closed Won,253000,,08-08-26,
+PMV2-016,08-09-26,Rolls-Royce,Ghost,Referral,New Inquiry,325000,23-12-26,,
+PMV2-017,17-04-26,Lexus,LS,Automotive event,Closed Won,99000,,23-06-26,
+PMV2-018,06-09-26,Lamborghini,Huracan,Walk-in,New Inquiry,312000,10-10-26,,
+PMV2-019,07-06-26,Lexus,LS,Website,Closed Lost,106000,,19-08-26,Purchase postponed
+PMV2-020,15-05-26,Lexus,LS,Website,Closed Lost,102000,,07-07-26,Price above budget
+PMV2-021,09-04-26,Rolls-Royce,Ghost,Website,Closed Won,346000,,06-05-26,
+PMV2-022,24-08-26,Audi,A8,Instagram,Closed Won,121000,,08-09-26,
+PMV2-023,22-08-26,Audi,A8,Referral,Closed Won,111000,,02-09-26,
+PMV2-024,16-07-26,Rolls-Royce,Ghost,Instagram,Test Drive Completed,369000,25-11-26,,
+PMV2-025,27-08-26,Lexus,LS,Automotive event,Qualified Buyer,93000,24-10-26,,
+PMV2-026,28-08-26,Lexus,LS,Automotive event,Offer Sent,101000,04-10-26,,
+PMV2-027,15-08-26,Lexus,LS,Instagram,Closed Won,106000,,13-09-26,
+PMV2-028,18-04-26,Ferrari,Roma,Walk-in,Closed Lost,235000,,25-06-26,Bought elsewhere
+PMV2-029,14-08-26,Lamborghini,Huracan,Automotive event,New Inquiry,318000,14-12-26,,
+PMV2-030,16-07-26,Mercedes-Benz,S-Class,Website,Closed Lost,122000,,25-09-26,Purchase postponed
+PMV2-031,27-08-26,Ferrari,Roma,Walk-in,Closed Won,263000,,22-09-26,
+PMV2-032,29-07-26,Audi,A8,Instagram,Test Drive Scheduled,119000,19-12-26,,
+PMV2-033,05-05-26,Porsche,911,Automotive event,Closed Lost,160000,,23-07-26,Vehicle unavailable
+PMV2-034,08-09-26,Bentley,Continental GT,Instagram,Qualified Buyer,244000,15-10-26,,
+PMV2-035,07-08-26,Rolls-Royce,Ghost,Walk-in,Closed Lost,345000,,11-09-26,Financing declined
+PMV2-036,06-07-26,Ferrari,Portofino,Referral,Closed Won,239000,,05-09-26,
+PMV2-037,14-07-26,Bentley,Continental GT,Instagram,Closed Lost,234000,,15-08-26,Vehicle unavailable
+PMV2-038,30-09-26,Audi,A8,Automotive event,New Inquiry,121000,10-11-26,,
+PMV2-039,30-04-26,Lexus,LS,Walk-in,Closed Lost,109000,,20-05-26,Price above budget
+PMV2-040,21-06-26,Audi,A8,Automotive event,Closed Lost,122000,,17-09-26,Vehicle unavailable
+PMV2-041,13-08-26,Lexus,LS,Automotive event,Closed Won,104000,,03-09-26,
+PMV2-042,13-09-26,Porsche,911,Website,New Inquiry,182000,22-11-26,,
+PMV2-043,21-08-26,Mercedes-Benz,S-Class,Walk-in,Closed Won,137000,,26-09-26,
+PMV2-044,15-04-26,Ferrari,Portofino,Website,Closed Lost,220000,,14-05-26,Bought elsewhere
+PMV2-045,30-08-26,Lamborghini,Huracan,Referral,Test Drive Completed,321000,05-12-26,,
+PMV2-046,23-05-26,Lexus,LS,Website,Closed Lost,100000,,07-08-26,Financing declined
+PMV2-047,30-05-26,Lamborghini,Huracan,Walk-in,Closed Lost,277000,,06-07-26,Purchase postponed
+PMV2-048,07-09-26,BMW,7 Series,Instagram,New Inquiry,130000,17-12-26,,
+PMV2-049,01-09-26,Porsche,911,Automotive event,Closed Won,155000,,15-09-26,
+PMV2-050,15-05-26,Ferrari,Portofino,Automotive event,Closed Lost,244000,,04-08-26,Vehicle unavailable
+PMV2-051,10-08-26,Lamborghini,Huracan,Referral,Closed Lost,273000,,28-08-26,Financing declined
+PMV2-052,02-04-26,Lexus,LS,Walk-in,Closed Lost,104000,,30-04-26,Bought elsewhere
+PMV2-053,17-08-26,BMW,7 Series,Website,Closed Won,125000,,01-09-26,
+PMV2-054,21-05-26,Lexus,LS,Automotive event,Closed Won,112000,,11-06-26,
+PMV2-055,05-06-26,Ferrari,Portofino,Referral,Closed Lost,236000,,20-06-26,Purchase postponed
+PMV2-056,19-04-26,Lexus,LS,Instagram,Closed Won,105000,,06-05-26,
+PMV2-057,18-08-26,Ferrari,Roma,Instagram,Offer Sent,264000,14-12-26,,
+PMV2-058,30-07-26,Lexus,LS,Website,Closed Won,96000,,07-08-26,
+PMV2-059,04-09-26,Audi,A8,Referral,Offer Sent,100000,10-10-26,,
+PMV2-060,13-04-26,BMW,7 Series,Automotive event,Closed Won,123000,,23-04-26,
+PMV2-061,04-06-26,Lamborghini,Huracan,Website,Closed Won,260000,,15-08-26,
+PMV2-062,21-06-26,Mercedes-Benz,S-Class,Referral,Closed Lost,143000,,08-08-26,Bought elsewhere
+PMV2-063,16-09-26,Ferrari,Portofino,Website,Test Drive Completed,207000,04-10-26,,
+PMV2-064,26-04-26,Lexus,LS,Instagram,Closed Won,106000,,22-07-26,
+PMV2-065,06-09-26,Mercedes-Benz,S-Class,Walk-in,Closed Lost,124000,,24-09-26,Vehicle unavailable
+PMV2-066,04-06-26,Lexus,LS,Instagram,Closed Lost,104000,,28-06-26,Price above budget
+PMV2-067,30-09-26,BMW,7 Series,Website,Qualified Buyer,124000,12-12-26,,
+PMV2-068,18-04-26,Ferrari,Portofino,Website,Closed Lost,214000,,17-06-26,Bought elsewhere
+PMV2-069,26-09-26,Ferrari,Roma,Referral,Test Drive Scheduled,287000,13-12-26,,
+PMV2-070,23-08-26,Lexus,LS,Automotive event,Test Drive Completed,95000,25-10-26,,
+PMV2-071,07-05-26,Lexus,LS,Walk-in,Closed Won,106000,,04-06-26,
+PMV2-072,13-06-26,Ferrari,Portofino,Referral,Closed Lost,226000,,27-08-26,Purchase postponed
+PMV2-073,20-08-26,Bentley,Continental GT,Walk-in,Test Drive Completed,232000,05-12-26,,
+PMV2-074,28-05-26,Lexus,LS,Walk-in,Closed Won,96000,,26-07-26,
+PMV2-075,05-09-26,Bentley,Continental GT,Instagram,Closed Won,217000,,24-09-26,
+PMV2-076,22-09-26,Lexus,LS,Instagram,Offer Sent,97000,21-10-26,,
+PMV2-077,16-09-26,Rolls-Royce,Ghost,Instagram,Test Drive Completed,400000,20-12-26,,
+PMV2-078,28-08-26,Mercedes-Benz,S-Class,Referral,Offer Sent,121000,19-12-26,,
+PMV2-079,07-07-26,Lamborghini,Huracan,Walk-in,Closed Won,313000,,16-08-26,
+PMV2-080,16-04-26,Lamborghini,Huracan,Website,Closed Won,277000,,10-05-26,
+PMV2-081,02-09-26,Lexus,LS,Referral,Offer Sent,113000,20-10-26,,
+PMV2-082,25-07-26,Bentley,Continental GT,Website,Closed Lost,223000,,29-09-26,Financing declined
+PMV2-083,22-06-26,Ferrari,Portofino,Instagram,Closed Lost,250000,,23-07-26,Purchase postponed
+PMV2-084,02-07-26,Lexus,LS,Walk-in,Closed Won,103000,,10-07-26,
+PMV2-085,14-04-26,Lamborghini,Huracan,Instagram,Closed Lost,271000,,03-05-26,Bought elsewhere
+PMV2-086,01-06-26,Porsche,911,Walk-in,Closed Won,182000,,11-08-26,
+PMV2-087,08-07-26,Lexus,LS,Website,Closed Won,111000,,20-08-26,
+PMV2-088,17-08-26,Lamborghini,Huracan,Referral,Test Drive Completed,263000,15-10-26,,
+PMV2-089,15-09-26,Bentley,Continental GT,Walk-in,Offer Sent,219000,06-11-26,,
+PMV2-090,02-08-26,Mercedes-Benz,S-Class,Instagram,Closed Won,130000,,16-09-26,
+PMV2-091,07-08-26,Ferrari,Roma,Referral,Closed Won,232000,,18-08-26,
+PMV2-092,09-08-26,Lamborghini,Huracan,Walk-in,Test Drive Scheduled,268000,31-10-26,,
+PMV2-093,21-08-26,BMW,7 Series,Instagram,New Inquiry,135000,28-10-26,,
+PMV2-094,24-07-26,Mercedes-Benz,S-Class,Referral,Closed Lost,119000,,29-08-26,Purchase postponed
+PMV2-095,01-06-26,Ferrari,Portofino,Automotive event,Closed Won,229000,,25-08-26,
+PMV2-096,27-08-26,Mercedes-Benz,S-Class,Automotive event,Closed Won,140000,,11-09-26,
+PMV2-097,28-08-26,Lexus,LS,Automotive event,Test Drive Scheduled,110000,18-11-26,,
+PMV2-098,25-09-26,Bentley,Continental GT,Website,New Inquiry,221000,21-10-26,,
+PMV2-099,23-06-26,Ferrari,Portofino,Referral,Closed Won,238000,,04-08-26,
+PMV2-100,06-07-26,Mercedes-Benz,S-Class,Instagram,Closed Won,138000,,14-09-26,
+PMV2-101,19-06-26,BMW,7 Series,Walk-in,Closed Lost,120000,,07-08-26,Price above budget
+PMV2-102,25-04-26,Lexus,LS,Referral,Closed Won,110000,,07-05-26,
+PMV2-103,26-07-26,BMW,7 Series,Instagram,Test Drive Scheduled,123000,01-12-26,,
+PMV2-104,05-04-26,Mercedes-Benz,S-Class,Instagram,Closed Lost,146000,,20-06-26,Bought elsewhere
+PMV2-105,25-04-26,Rolls-Royce,Ghost,Referral,Closed Lost,383000,,06-05-26,Financing declined
+PMV2-106,08-06-26,BMW,7 Series,Website,Closed Lost,129000,,28-06-26,Price above budget
+PMV2-107,06-09-26,Rolls-Royce,Ghost,Website,Offer Sent,334000,11-11-26,,
+PMV2-108,24-09-26,Porsche,911,Website,New Inquiry,155000,01-10-26,,
+PMV2-109,13-04-26,Mercedes-Benz,S-Class,Walk-in,Closed Won,122000,,02-05-26,
+PMV2-110,15-05-26,BMW,7 Series,Instagram,Closed Lost,116000,,09-06-26,Vehicle unavailable
+PMV2-111,18-09-26,Audi,A8,Referral,Test Drive Scheduled,115000,25-12-26,,
+PMV2-112,16-09-26,Audi,A8,Referral,Test Drive Scheduled,119000,21-10-26,,
+PMV2-113,28-06-26,Audi,A8,Referral,Closed Won,126000,,17-07-26,
+PMV2-114,01-08-26,Ferrari,Portofino,Referral,Closed Lost,206000,,21-08-26,Vehicle unavailable
+PMV2-115,13-06-26,Ferrari,Roma,Walk-in,Closed Lost,226000,,06-09-26,Price above budget
+PMV2-116,03-05-26,Audi,A8,Automotive event,Closed Lost,123000,,13-07-26,Vehicle unavailable
+PMV2-117,17-05-26,Rolls-Royce,Ghost,Instagram,Closed Lost,354000,,29-07-26,Vehicle unavailable
+PMV2-118,07-07-26,Ferrari,Portofino,Website,New Inquiry,245000,23-11-26,,
+PMV2-119,11-09-26,Lexus,LS,Automotive event,Offer Sent,95000,01-10-26,,
+PMV2-120,09-06-26,Bentley,Continental GT,Website,Closed Lost,251000,,03-07-26,Purchase postponed
+PMV2-121,05-06-26,Ferrari,Portofino,Website,Closed Won,203000,,11-08-26,
+PMV2-122,09-07-26,Ferrari,Portofino,Instagram,Closed Won,225000,,14-09-26,
+PMV2-123,17-09-26,Ferrari,Portofino,Instagram,Test Drive Scheduled,216000,20-11-26,,
+PMV2-124,28-08-26,Audi,A8,Referral,New Inquiry,125000,07-12-26,,
+PMV2-125,18-09-26,Porsche,911,Walk-in,Test Drive Completed,144000,03-10-26,,
+PMV2-126,09-04-26,Lexus,LS,Website,Closed Lost,107000,,08-06-26,Purchase postponed
+PMV2-127,07-06-26,Lamborghini,Huracan,Automotive event,Closed Won,291000,,03-07-26,
+PMV2-128,12-08-26,Bentley,Continental GT,Walk-in,Offer Sent,226000,19-11-26,,
+PMV2-129,11-05-26,Ferrari,Roma,Instagram,Closed Lost,243000,,11-06-26,Bought elsewhere
+PMV2-130,08-09-26,Bentley,Continental GT,Walk-in,Test Drive Scheduled,257000,17-11-26,,
+PMV2-131,28-06-26,Rolls-Royce,Ghost,Automotive event,Closed Lost,319000,,25-09-26,Financing declined
+PMV2-132,06-09-26,BMW,7 Series,Instagram,New Inquiry,134000,11-10-26,,
+PMV2-133,28-08-26,Audi,A8,Walk-in,Offer Sent,114000,21-12-26,,
+PMV2-134,20-09-26,Rolls-Royce,Ghost,Website,Test Drive Completed,328000,17-12-26,,
+PMV2-135,31-08-26,Lexus,LS,Referral,New Inquiry,105000,03-11-26,,
+PMV2-136,11-06-26,Mercedes-Benz,S-Class,Walk-in,Closed Lost,148000,,28-07-26,Vehicle unavailable
+PMV2-137,26-05-26,Bentley,Continental GT,Automotive event,Closed Lost,250000,,25-07-26,Financing declined
+PMV2-138,01-07-26,Ferrari,Roma,Automotive event,Closed Lost,244000,,13-09-26,Price above budget
+PMV2-139,07-08-26,Lexus,LS,Walk-in,Qualified Buyer,111000,11-10-26,,
+PMV2-140,16-06-26,Bentley,Continental GT,Instagram,Closed Lost,214000,,16-08-26,Price above budget
+PMV2-141,12-08-26,Rolls-Royce,Ghost,Automotive event,Offer Sent,395000,10-12-26,,
+PMV2-142,18-09-26,Lamborghini,Huracan,Automotive event,Offer Sent,311000,12-12-26,,
+PMV2-143,15-04-26,Bentley,Continental GT,Automotive event,Closed Won,241000,,20-05-26,
+PMV2-144,11-07-26,Mercedes-Benz,S-Class,Website,Closed Won,143000,,12-08-26,
+PMV2-145,05-07-26,Ferrari,Roma,Walk-in,Closed Won,266000,,18-07-26,
+PMV2-146,17-09-26,Ferrari,Roma,Automotive event,Test Drive Completed,244000,15-12-26,,
+PMV2-147,26-05-26,Porsche,911,Automotive event,Closed Won,146000,,12-08-26,
+PMV2-148,05-07-26,BMW,7 Series,Referral,Closed Won,132000,,14-07-26,
+PMV2-149,16-09-26,BMW,7 Series,Walk-in,New Inquiry,135000,12-12-26,,
+PMV2-150,06-06-26,Bentley,Continental GT,Walk-in,Closed Won,209000,,13-08-26,
