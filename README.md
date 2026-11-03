@@ -143,4 +143,4 @@ evidence and should not be treated as the corrected monthly results.
 - Results reflect a fixed snapshot rather than ongoing performance.
 - Stage counts show the current distribution, not historical
   movement through a sales funnel.
-- Corrected HubSpot validation exports are still to be added.
+
